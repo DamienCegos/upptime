@@ -40,9 +40,9 @@
     "url": "https://www.ib-formation.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ib-formation.fr.ico",
     "slug": "www-ib-formation-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2510,
     "timeMonth": 2417,
     "timeYear": 2417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "www.integrata-cegos.de",
