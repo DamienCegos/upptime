@@ -40,9 +40,9 @@
     "url": "https://www.ib-formation.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ib-formation.fr.ico",
     "slug": "www-ib-formation-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -52,6 +52,7 @@
     "timeMonth": 2522,
     "timeYear": 2522,
     "dailyMinutesDown": {
+      "2023-09-17": 1,
       "2023-09-13": 16
     }
   },
