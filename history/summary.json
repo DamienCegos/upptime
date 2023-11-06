@@ -22,19 +22,19 @@
     "url": "https://www.cegos.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos.com.ico",
     "slug": "www-cegos-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2602,
-    "timeDay": 2664,
-    "timeWeek": 2586,
-    "timeMonth": 2692,
-    "timeYear": 2602,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "83.50%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.76%",
+    "time": 2592,
+    "timeDay": 2271,
+    "timeWeek": 2497,
+    "timeMonth": 2667,
+    "timeYear": 2592,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 238
     }
   },
   {
