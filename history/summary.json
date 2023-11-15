@@ -208,19 +208,19 @@
     "url": "https://www.cegos-channels-alliances.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos-channels-alliances.com.ico",
     "slug": "www-cegos-channels-alliances-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1804,
-    "timeDay": 1704,
-    "timeWeek": 1952,
-    "timeMonth": 1817,
-    "timeYear": 1804,
+    "time": 1803,
+    "timeDay": 1709,
+    "timeWeek": 1922,
+    "timeMonth": 1813,
+    "timeYear": 1803,
     "dailyMinutesDown": {
-      "2023-11-15": 2
+      "2023-11-15": 5
     }
   },
   {
@@ -228,19 +228,19 @@
     "url": "https://www.groupecimes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.groupecimes.com.ico",
     "slug": "www-groupecimes-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1889,
-    "timeDay": 1438,
-    "timeWeek": 1923,
-    "timeMonth": 1908,
-    "timeYear": 1889,
+    "time": 1888,
+    "timeDay": 1633,
+    "timeWeek": 1911,
+    "timeMonth": 1905,
+    "timeYear": 1888,
     "dailyMinutesDown": {
-      "2023-11-15": 0
+      "2023-11-15": 3
     }
   }
 ]
