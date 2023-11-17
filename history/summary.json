@@ -4,10 +4,10 @@
     "url": "https://www.cegos.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos.fr.ico",
     "slug": "www-cegos-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2302,
@@ -15,7 +15,9 @@
     "timeWeek": 2570,
     "timeMonth": 2305,
     "timeYear": 2302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 1
+    }
   },
   {
     "name": "www.cegos.com",
@@ -100,9 +102,9 @@
     "url": "https://www.cegos.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos.es.ico",
     "slug": "www-cegos-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +113,9 @@
     "timeWeek": 2258,
     "timeMonth": 2337,
     "timeYear": 2627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "www.cegoc.pt",
