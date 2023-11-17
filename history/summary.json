@@ -4,19 +4,19 @@
     "url": "https://www.cegos.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos.fr.ico",
     "slug": "www-cegos-fr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2302,
-    "timeDay": 3606,
-    "timeWeek": 2570,
-    "timeMonth": 2305,
-    "timeYear": 2302,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 2365,
+    "timeDay": 5512,
+    "timeWeek": 3176,
+    "timeMonth": 2465,
+    "timeYear": 2365,
     "dailyMinutesDown": {
-      "2023-11-17": 1
+      "2023-11-17": 33
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://www.cegos.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos.es.ico",
     "slug": "www-cegos-es",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2627,
-    "timeDay": 2575,
-    "timeWeek": 2258,
-    "timeMonth": 2337,
-    "timeYear": 2627,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 2635,
+    "timeDay": 2937,
+    "timeWeek": 2388,
+    "timeMonth": 2367,
+    "timeYear": 2635,
     "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 33
     }
   },
   {
