@@ -176,9 +176,9 @@
     "url": "https://www.cegos.com.sg",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos.com.sg.ico",
     "slug": "www-cegos-com-sg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -187,7 +187,9 @@
     "timeWeek": 4746,
     "timeMonth": 4464,
     "timeYear": 4372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "www.cegoslatam.com",
