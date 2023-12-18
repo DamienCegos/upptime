@@ -66,11 +66,11 @@
     "url": "https://www.integrata-cegos.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.integrata-cegos.de.ico",
     "slug": "www-integrata-cegos-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "88.55%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "88.92%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.87%",
     "time": 2545,
     "timeDay": 3680,
@@ -78,7 +78,7 @@
     "timeMonth": 2961,
     "timeYear": 2545,
     "dailyMinutesDown": {
-      "2023-12-18": 165,
+      "2023-12-18": 159,
       "2023-12-15": 44
     }
   },
