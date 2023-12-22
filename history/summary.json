@@ -87,19 +87,19 @@
     "url": "https://www.cegos.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cegos.it.ico",
     "slug": "www-cegos-it",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2169,
-    "timeDay": 1537,
-    "timeWeek": 2106,
-    "timeMonth": 1988,
-    "timeYear": 2169,
+    "time": 2168,
+    "timeDay": 1795,
+    "timeWeek": 2100,
+    "timeMonth": 1990,
+    "timeYear": 2168,
     "dailyMinutesDown": {
-      "2023-12-22": 0
+      "2023-12-22": 6
     }
   },
   {
